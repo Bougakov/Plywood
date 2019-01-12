@@ -1,4 +1,4 @@
-DIY plywood designs for Dremel, CNC, PCB fabrication. All of these are meant to be cut from 3mm material.
+DIY plywood designs for Dremel, CNC, PCB fabrication. All of these are meant to be cut from 3mm material. По-русски на ([mysku.ru](https://mysku.ru/blog/aliexpress/69794.html))
 
 ![Overview](https://github.com/Bougakov/Plywood/blob/master/images/all.jpg?raw=true)
 
