@@ -2,7 +2,7 @@ DIY plywood designs for Dremel, CNC, PCB fabrication. All of these are meant to 
 
 ![Overview](https://github.com/Bougakov/Plywood/blob/master/images/all.jpg?raw=true)
 
-*(Please note, my layouts are designed to be cut with a laser with .16mm laser beam. If yours uses finer beam, you might need to use sandpaper / file to fit the parts together.)*
+*(Please note, my layouts are designed to be cut with a laser with .16mm beam. If yours uses finer beam, you might need to use sandpaper / file to fit the parts together.)*
 
 # Circular mini saw:
 
