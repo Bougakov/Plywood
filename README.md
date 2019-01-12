@@ -59,9 +59,6 @@ Here are the links to the necessary components from AliExpress:
 * [2-pin inlet](https://letyshops.com/r/aliexpress-m9intrgr02ogk)
 * [plastic pedal](https://letyshops.com/r/aliexpress-m9intrgqznk0s)
 
-[//]: # ![Pedal](https://ae01.alicdn.com/kf/HTB16ynOfBnTBKNjSZPfq6zf1XXau.jpg?width=930&height=550&hash=1480)
-[//]: # ![Inlet](https://ae01.alicdn.com/kf/HTB1M7ImIwaTBuNjSszfq6xgfpXaM.jpg)
-
 # Dremel holder 
 
 (uses 50mm plastic plumbing clamps)
@@ -71,5 +68,3 @@ Here are the links to the necessary components from AliExpress:
 This is the holder for a [9W ultra-violet 365nm curing lamp](https://letyshops.com/r/aliexpress-m9intrgr28g84) used to harden resist films on PCB. Ballast circuit is placed in the handle.
 
 ![Assembly](https://github.com/Bougakov/Plywood/blob/master/images/uv-bottom.jpg?raw=true)
-
-[//]: # ![9W 365nm UV lamp](http://ae01.alicdn.com/kf/HTB1uMPedBDH8KJjSspnq6zNAVXal.jpg)
