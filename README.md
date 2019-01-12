@@ -31,16 +31,36 @@ Here are the links to the necessary components from AliExpress:
 * [44mm cutting disc](https://letyshops.com/r/aliexpress-m9intrgq4k08g)
 * [rubber legs](https://letyshops.com/r/aliexpress-m9intrgr468k8)
 * [sealed dustproof ball bearing](https://letyshops.com/r/aliexpress-m9intrgq568og)
+* You will also need few M3 nuts and washers, and four M4 butterfly nuts to hold the rulers - get these at the local hardware store. 
 
 ## Pedal for Dremel
 
-![Pedal](https://ae01.alicdn.com/kf/HTB16ynOfBnTBKNjSZPfq6zf1XXau.jpg?width=930&height=550&hash=1480)
+I have built a pedal assembly to allow myself to use both hands while working with Dremel. I used [cheapest plastic pedal switch from AliExpress] and attached power socket to it. [See it in action on YouTube](https://www.youtube.com/watch?v=IyDY4anWHEY).
 
-* https://letyshops.com/r/aliexpress-m9intrgqznk0s - pedal
+First, disassemble the pedal and remove stock rubber feet. Mount it on plywood base using M3 nuts and washers:
 
-![Inlet](https://ae01.alicdn.com/kf/HTB1M7ImIwaTBuNjSszfq6xgfpXaM.jpg)
+![Assembly](https://github.com/Bougakov/Plywood/blob/master/images/pedal-assembly.jpg?raw=true)
 
-* https://letyshops.com/r/aliexpress-m9intrgr02ogk - inlet
+On the bottom attach rubber feet:
+
+![Rubber feet](https://github.com/Bougakov/Plywood/blob/master/images/pedal-bottom-assembled.jpg?raw=true)
+
+Insert 2-pin power inlet in the hole on behind, use M3 nuts as well:
+
+![Inlet](https://github.com/Bougakov/Plywood/blob/master/images/pedal-behind.jpg?raw=true)
+
+Glue everything together, clamp, and put the assembly in some warm place:
+
+![Glue it](https://github.com/Bougakov/Plywood/blob/master/images/pedal-warmth.jpg?raw=true)
+
+Here are the links to the necessary components from AliExpress:
+
+* [rubber legs](https://letyshops.com/r/aliexpress-m9intrgr468k8)
+* [2-pin inlet](https://letyshops.com/r/aliexpress-m9intrgr02ogk)
+* [plastic pedal](https://letyshops.com/r/aliexpress-m9intrgqznk0s)
+
+[comment]: # ![Pedal](https://ae01.alicdn.com/kf/HTB16ynOfBnTBKNjSZPfq6zf1XXau.jpg?width=930&height=550&hash=1480)
+[comment]: # ![Inlet](https://ae01.alicdn.com/kf/HTB1M7ImIwaTBuNjSszfq6xgfpXaM.jpg)
 
 ## Dremel holder 
 
@@ -48,6 +68,8 @@ Here are the links to the necessary components from AliExpress:
 
 ## UV PCB resist curing lamp holder
 
-![9W 365nm UV lamp](http://ae01.alicdn.com/kf/HTB1uMPedBDH8KJjSspnq6zNAVXal.jpg)
+This is the holder for a [9W ultra-violet 365nm curing lamp](https://letyshops.com/r/aliexpress-m9intrgr28g84) used to harden resist films on PCB. Ballast circuit is placed in the handle.
 
-* https://letyshops.com/r/aliexpress-m9intrgr28g84 - 9W ultra-violet 365nm curing lamp
+![Assembly](https://github.com/Bougakov/Plywood/blob/master/images/uv-bottom.jpg?raw=true)
+
+[comment]: # ![9W 365nm UV lamp](http://ae01.alicdn.com/kf/HTB1uMPedBDH8KJjSspnq6zNAVXal.jpg)
