@@ -51,7 +51,7 @@ Insert 2-pin power inlet in the hole on behind, use M3 nuts as well:
 
 ![Inlet](https://github.com/Bougakov/Plywood/blob/master/images/pedal-behind.jpg?raw=true)
 
-Glue everything together, clamp, and put the assembly in some warm place:
+Glue everything together, clamp, and put the assembly in some warm place to set:
 
 ![Glue it](https://github.com/Bougakov/Plywood/blob/master/images/pedal-warmth.jpg?raw=true)
 
