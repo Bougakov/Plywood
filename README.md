@@ -37,7 +37,7 @@ Here are the links to the necessary components from AliExpress:
 
 # Pedal for Dremel
 
-I have built a pedal assembly to allow myself to use both hands while working with Dremel. I used [cheapest plastic pedal switch from AliExpress] and attached power socket to it. [See it in action on YouTube](https://www.youtube.com/watch?v=IyDY4anWHEY).
+I have built a pedal assembly to allow myself to use both hands while working with Dremel. I used [cheapest plastic pedal switch from AliExpress](https://letyshops.com/r/aliexpress-m9intrgqznk0s) and attached power socket to it. [See it in action on YouTube](https://www.youtube.com/watch?v=IyDY4anWHEY).
 
 First, disassemble the pedal and remove stock rubber feet. Mount it on plywood base using M3 nuts and washers:
 
